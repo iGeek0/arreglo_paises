@@ -24,8 +24,8 @@
             "Western Sahara",
             "Yemen",
             "Zambia"];
-            
-    #Mas Completo   
+	    
+# Mas completo
             
    const countryList = [
 	"Afghanistan",
